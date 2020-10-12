@@ -1,0 +1,93 @@
+{
+	"phrases": [
+		"Monsieur.",
+		"Sortez vos résumés.",
+		"Sortez TD TP.",
+		"Lisez votre TD.",
+		"Lisez votre TP.",
+		"Sortez votre TD.",
+		"Sortez votre TP.",
+		"echo toto",
+		"On va dans ce sens messieurs, sinon c'est derrière.",
+		"C'est quoi la tablette ASCII.",
+		"Monsieur vous êtes boursier et vous vous permettez de parler ! vous pouvez partir.",
+		"Monsieur s'est écrit dans ton résumé.",
+		"Je n'ai pas reçu votre rapport au format P.D.F.",
+		"Tu me casses le cul.",
+		"echo Bonjour les amis",
+		"Dans le monde de Linux, tout est fichier.",
+		"Backslash",
+		"cd point point",
+		"C'est un tuuuuuuuube.",
+		"Eh, tu connais Star Wars ?",
+		"Pas esperluette monsieur, et commercial.",
+		"Monsieur, c'est pas moins grand que, c'est plus petit que.",
+		"Dollar IFS c'est pas drôle, dollar IFS çà fait chier !",
+		"ar -c fait la compilation. On fait pas la compilation.",
+		"au niveau de compilateur, il ne sait pas ou trouver le bibliothèque.",
+		"On fait pas la compilation.",
+		"C'est marqué dans votre TD.",
+		"C'est marqué dans votre TP.",
+		"Le TD est en chinois, alors.",
+		"C'est en chinois.",
+		"Au niveau système",
+		"Niveau système",
+		"Tu me casses la tête",
+		"C'est interdit de rôter et de pêter.",
+		"Dans linux tout est fichier",
+		"Monsieur vous avez pas écrit dans votre TP vous avez pas le droit à la parole.",
+		"Meusieur, Meusieur vous avez rien compris!",
+		"Binjour",
+		"On est en système ! on parle commande, on parle pas français !",
+		"Si tu parles pas commande tu parle chinois",
+		"Quand je pose une question,je ne veux pas du francais je veux une commande",
+		"cd..",
+		"Monsieur, enfin regarder votre TD.",
+		"faut appeler une ambulance",
+		"Okay ?",
+		"C'est parti pour une demi-heure !",
+		"Prennez des notes !",
+		"Chaine de caractèèère",
+		"Accent courconflex",
+		"Il ne sait pas ce que c'est un nombre!",
+		"``*/*/*/\\*/*/\\*``",
+		"étoile . étoile /étoile ./étoile ../étoile /étoile/étoile /étoile/. étoile",
+		"Écrivez l'exemple sinon vous comprendrez rien!",
+		"C'est bon ?",
+		"T'as rien fait!",
+		"Est-ce-que cous avez des questions? Sinon on continue!",
+		"C'est bon ? Ça marche ? Okay ?",
+		"ln lsr ça fait pas rigoler!",
+		"On s'installe sous home",
+		"Vous êtes sous haume, vous ché vous...",
+		"ÇA CLIGNOTE ROUGE !!",
+		"..OK ?..",
+		"Lés Slaïdes...",
+		"Il é ou le spéctakle ?",
+		"Tapez echo BLAH BLAH....",
+		"Pk tu rigoles ?...",
+		"Tape le ! Tape ! Tape ! Tape le monsieur ! Tape echo blabla !"
+	],
+	"channels": {
+		"656794813559209994": [],
+		"753227524678352990": []
+	},
+	"audio": {
+		"44": {
+			"title": "Okay ?",
+			"file": "./sounds/okay.mp3"
+		},
+		"5": {
+			"title": "Vous sortez votre TD",
+			"file": "./sounds/vous_sortez_vos_td.mp3"
+		},
+		"66": {
+			"title": "Tape le ! Tape ! Tape ! Tape le monsieur ! Tape echo blabla !",
+			"file": "./sounds/taple_le_tape_le_monsieur.mp3"
+		},
+		"26": {
+			"title": "C'est marqué dans votre TD.",
+			"file": "./sounds/c_est_marque_dans_votre_td_comment_il_faut_faire.mp3"
+		}
+	}
+}

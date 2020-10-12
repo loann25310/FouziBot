@@ -1,0 +1,27 @@
+{
+  "name": "fouzibot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "cron": "^1.8.2",
+    "discord.js": "^12.3.1",
+    "ffmpeg-static": "^4.2.7",
+    "ytdl-core": "^3.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loann25310/FouziBot.git"
+  },
+  "author": "Loann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loann25310/FouziBot/issues"
+  },
+  "homepage": "https://github.com/loann25310/FouziBot#readme"
+}
